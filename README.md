@@ -1,4 +1,16 @@
-# git-group-practices
+ # git-group-practices
 
-Somebody once told me ...
-the world was going to roll me ... 
+ <<<<<<< davidverghese-dev
+ Somebody once told me ...
+ the world was going to roll me ... 
+
+
+ =======
+ <<<<<<< amykumar
+ #amykumar branch
+
+
+ =======
+ gylychDev
+ >>>>>>> develop
+ >>>>>>> develop
